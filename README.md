@@ -6,9 +6,14 @@ This application shows the current internet usage of the computer. It shows up i
 Features;
 
 Transparent, it doesnt take much space on your screen.
+
 Alarms every 50MB of internet usage. (Just shows red line, not by sound.)
+
 Shows up in front of everything.
+
 Changes color according to the background color.
+
 Invisible on taskbar.
+
 
 Note: I am a beginner. Codes are really messy. Please do not get angry with me. :)
