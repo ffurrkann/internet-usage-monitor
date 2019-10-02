@@ -12,6 +12,7 @@ This application shows the computer's current internet usage as simple as possib
 - Shows up in front of everything.
 - Changes color according to the background color.
 - Invisible on taskbar.
+- Only works on Windows.
 
 
 Note :  I am a beginner. Codes are really messy. Please do not get angry with me. :)
