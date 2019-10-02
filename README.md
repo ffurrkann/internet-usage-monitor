@@ -1,6 +1,6 @@
 Internet Usage Monitor
 
-This application shows the computer's current internet usage as simple as possible. Works only on windows. It shows up in front of the every other windows. Which means you can check your internet usage even when you are watching a video or playing a game. It shows up on the screen. 
+This application shows the computer's current internet usage as simple as possible. It works only on windows. It shows up in front of the every other windows. Which means you can check your internet usage even when you are watching a video or playing a game. It shows up on the screen. 
 
 ------------
 
