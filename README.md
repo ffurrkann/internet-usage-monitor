@@ -10,7 +10,7 @@ This application monitors the computer's current internet usage as simple as pos
 - Transparent, it doesnt take much space on your screen.
 - Alarms every 50MB of internet usage. (Just shows red line, not by sound.)
 - Shows up in front of everything. (Even if you are watching youtube video it shows the data you used in real time)
-- Changes color according to the background color.
+- Changes color of the font according to the background color.
 - Invisible on taskbar.
 - Works on all versions of Windows.
 
