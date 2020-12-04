@@ -20,3 +20,6 @@ Note :  I am a beginner. Codes are really messy. Please do not get angry with me
 #### **Some screenshots while program is running.** (On the left upper of the screen)
 ![](https://i.ibb.co/zRJwLcz/Yeni-Bit-E-lem-Resmi-2.png)
 ![](https://i.ibb.co/DC4tbTP/Yeni-Bit-E-lem-Resmi.png)
+
+## Known issues;
+- Program crushes after some time due to stack over flow. I am currently working on it.
