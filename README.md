@@ -22,4 +22,4 @@ Note :  I am a beginner. Codes are really messy. Please do not get angry with me
 ![](https://i.ibb.co/DC4tbTP/Yeni-Bit-E-lem-Resmi.png)
 
 ## Known issues;
-- Program crushes after some time due to stack over flow. I am currently working on it.
+- Program crushes after some time due to stack overflow. I am currently working on it.
