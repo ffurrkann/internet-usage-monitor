@@ -1,11 +1,9 @@
-Internet Usage Monitor
-
 This application can monitor the total network traffic in megabytes for the current runtime session. It works only on Windows and shows up at the top of all other windows. You can monitor your total network traffic in real-time even when watching a video or playing a game. 
 
 
 
 
-## **FEATURES;**
+## **FEATURES ✨;**
 
 - Transparent, it doesn't take much space on your screen.
 - Alarms every 50MB of internet usage. (Highlight, no sound)
